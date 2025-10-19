@@ -1,0 +1,14 @@
+Jenkins Lab 1 Summary
+---------------------
+
+You have successfully:
+- Installed Jenkins on Linux
+- Configured a master and agent node
+- Set up SSH authentication
+- Installed required plugins
+- Verified distributed build setup
+
+Next Steps:
+- Explore Jenkins Pipelines
+- Connect Jenkins with GitHub
+- Automate CI/CD workflows
