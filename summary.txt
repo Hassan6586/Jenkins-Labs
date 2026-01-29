@@ -11,4 +11,4 @@ You have successfully:
 Next Steps:
 - Explore Jenkins Pipelines
 - Connect Jenkins with GitHub
-- Automate CI/CD workflows
+- Automate CI/CD workflows lets deep dive
