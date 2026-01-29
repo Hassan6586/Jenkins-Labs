@@ -1,6 +1,6 @@
 #!/bin/bash
 # Jenkins Lab 1 - Installing Jenkins and Agent Setup
-
+#install Dedendices"
 sudo apt update
 sudo apt install -y openjdk-11-jdk
 java -version
@@ -13,9 +13,10 @@ sudo apt install -y jenkins
 
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
-
+##Firewal Setup Role
 sudo ufw allow 8080
 
+#Password for Webpage Jenkis
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 sudo useradd -m -s /bin/bash jenkins-agent
