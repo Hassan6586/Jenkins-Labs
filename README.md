@@ -1,4 +1,4 @@
-# 🧰 Jenkins Lab 1 — Installing Jenkins (Master & Agent Setup)
+# 🧰 Jenkins Lab 1 — Installing Jenkins (Master & Agent Setup) With Tech With Hassan!!
 
 Welcome to **Lab 1: Installing Jenkins** — a beginner-friendly, step-by-step guide to set up Jenkins on Linux and configure a basic master–agent environment.
 
@@ -38,7 +38,7 @@ By the end of this lab, you will:
    sudo systemctl enable jenkins
    ```
 
-4. **Open firewall port 8080:**
+4. **Open the firewall port 8080:**
    ```bash
    sudo ufw allow 8080
    ```
